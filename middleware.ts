@@ -6,11 +6,13 @@ const publicRoutes = ['/login', '/register', '/reset-password'];
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  // Autoriser routes publiques
   if (publicRoutes.some((route) => pathname.startsWith(route))) {
     return NextResponse.next();
   }
 
   const response = NextResponse.next();
+
   const supabase = createServerClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
@@ -33,9 +35,9 @@ export async function middleware(request: NextRequest) {
     data: { user },
   } = await supabase.auth.getUser();
 
+  // Bloquer tout sauf public si pas connecté
   if (!user) {
-    const url = new URL('/login', request.url);
-    return NextResponse.redirect(url);
+    return NextResponse.redirect(new URL('/login', request.url));
   }
 
   return response;
@@ -44,4 +46,3 @@ export async function middleware(request: NextRequest) {
 export const config = {
   matcher: ['/((?!_next/static|_next/image|favicon.ico|api).*)'],
 };
-

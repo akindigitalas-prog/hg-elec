@@ -29,7 +29,7 @@ export function Topbar() {
         </SheetContent>
       </Sheet>
 
-      <Link href="/" className="flex items-center gap-2 text-lg font-semibold">
+      <Link href="/dashboard" className="flex items-center gap-2 text-lg font-semibold">
         <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-primary text-primary-foreground">
           <Zap className="h-4 w-4" />
         </span>
