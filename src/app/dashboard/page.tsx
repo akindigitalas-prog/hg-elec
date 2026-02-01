@@ -114,14 +114,14 @@ export default async function DashboardPage() {
         }
       />
 
-      <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+      <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-4">
         <StatCard label="CA du mois" value={currency.format(monthRevenue)} trend="Factures emises ce mois" highlight />
         <StatCard label="CA annuel" value={currency.format(yearRevenue)} trend={`Annee ${now.getFullYear()}`} />
         <StatCard label="Devis en attente" value={String(pendingQuotesCount)} trend="Brouillon + envoye" />
         <StatCard label="Factures impayees" value={String(unpaidInvoicesCount)} trend="En retard" />
       </div>
 
-      <div className="grid gap-6 lg:grid-cols-2">
+      <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
         <SectionCard
           title="Devis en cours"
           action={
@@ -130,40 +130,42 @@ export default async function DashboardPage() {
             </Button>
           }
         >
-          <Table className="table-sticky">
-            <TableHeader>
-              <TableRow>
-                <TableHead>Numero</TableHead>
-                <TableHead>Client</TableHead>
-                <TableHead>Statut</TableHead>
-                <TableHead className="text-right">Total</TableHead>
-              </TableRow>
-            </TableHeader>
-            <TableBody>
-              {quotes?.length ? (
-                quotes.map((quote) => (
-                  <TableRow key={quote.id}>
-                    <TableCell className="font-medium">{quote.number}</TableCell>
-                    <TableCell>{getCustomerName((quote as any).customers) || '-'}</TableCell>
-                    <TableCell>
-                      <Badge variant={quoteStatusVariant[quote.status] || 'secondary'}>
-                        {quote.status}
-                      </Badge>
-                    </TableCell>
-                    <TableCell className="text-right">
-                      {currency.format(Number(quote.totals?.total_ttc ?? 0))}
+          <div className="overflow-x-auto">
+            <Table className="table-sticky min-w-[520px]">
+              <TableHeader>
+                <TableRow>
+                  <TableHead>Numero</TableHead>
+                  <TableHead>Client</TableHead>
+                  <TableHead>Statut</TableHead>
+                  <TableHead className="text-right">Total</TableHead>
+                </TableRow>
+              </TableHeader>
+              <TableBody>
+                {quotes?.length ? (
+                  quotes.map((quote) => (
+                    <TableRow key={quote.id}>
+                      <TableCell className="font-medium">{quote.number}</TableCell>
+                      <TableCell>{getCustomerName((quote as any).customers) || '-'}</TableCell>
+                      <TableCell>
+                        <Badge variant={quoteStatusVariant[quote.status] || 'secondary'}>
+                          {quote.status}
+                        </Badge>
+                      </TableCell>
+                      <TableCell className="text-right">
+                        {currency.format(Number(quote.totals?.total_ttc ?? 0))}
+                      </TableCell>
+                    </TableRow>
+                  ))
+                ) : (
+                  <TableRow>
+                    <TableCell colSpan={4} className="text-center text-muted-foreground">
+                      Aucun devis en attente.
                     </TableCell>
                   </TableRow>
-                ))
-              ) : (
-                <TableRow>
-                  <TableCell colSpan={4} className="text-center text-muted-foreground">
-                    Aucun devis en attente.
-                  </TableCell>
-                </TableRow>
-              )}
-            </TableBody>
-          </Table>
+                )}
+              </TableBody>
+            </Table>
+          </div>
         </SectionCard>
 
         <SectionCard
@@ -174,40 +176,42 @@ export default async function DashboardPage() {
             </Button>
           }
         >
-          <Table className="table-sticky">
-            <TableHeader>
-              <TableRow>
-                <TableHead>Numero</TableHead>
-                <TableHead>Client</TableHead>
-                <TableHead>Statut</TableHead>
-                <TableHead className="text-right">Total</TableHead>
-              </TableRow>
-            </TableHeader>
-            <TableBody>
-              {overdueInvoices.length ? (
-                overdueInvoices.map((invoice) => (
-                  <TableRow key={invoice.id}>
-                    <TableCell className="font-medium">{invoice.number}</TableCell>
-                    <TableCell>{getCustomerName((invoice as any).customers) || '-'}</TableCell>
-                    <TableCell>
-                      <Badge variant={invoiceStatusVariant['en_retard']}>
-                        en_retard
-                      </Badge>
-                    </TableCell>
-                    <TableCell className="text-right">
-                      {currency.format(Number(invoice.totals?.total_ttc ?? 0))}
+          <div className="overflow-x-auto">
+            <Table className="table-sticky min-w-[520px]">
+              <TableHeader>
+                <TableRow>
+                  <TableHead>Numero</TableHead>
+                  <TableHead>Client</TableHead>
+                  <TableHead>Statut</TableHead>
+                  <TableHead className="text-right">Total</TableHead>
+                </TableRow>
+              </TableHeader>
+              <TableBody>
+                {overdueInvoices.length ? (
+                  overdueInvoices.map((invoice) => (
+                    <TableRow key={invoice.id}>
+                      <TableCell className="font-medium">{invoice.number}</TableCell>
+                      <TableCell>{getCustomerName((invoice as any).customers) || '-'}</TableCell>
+                      <TableCell>
+                        <Badge variant={invoiceStatusVariant['en_retard']}>
+                          en_retard
+                        </Badge>
+                      </TableCell>
+                      <TableCell className="text-right">
+                        {currency.format(Number(invoice.totals?.total_ttc ?? 0))}
+                      </TableCell>
+                    </TableRow>
+                  ))
+                ) : (
+                  <TableRow>
+                    <TableCell colSpan={4} className="text-center text-muted-foreground">
+                      Aucune facture en retard.
                     </TableCell>
                   </TableRow>
-                ))
-              ) : (
-                <TableRow>
-                  <TableCell colSpan={4} className="text-center text-muted-foreground">
-                    Aucune facture en retard.
-                  </TableCell>
-                </TableRow>
-              )}
-            </TableBody>
-          </Table>
+                )}
+              </TableBody>
+            </Table>
+          </div>
         </SectionCard>
       </div>
     </div>

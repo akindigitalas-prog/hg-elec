@@ -17,17 +17,19 @@ import { Button } from '@/components/ui/button';
 
 export function Topbar() {
   return (
-    <header className="sticky top-0 z-20 flex items-center justify-between border-b bg-background/80 px-6 py-4 backdrop-blur lg:hidden">
-      <Sheet>
-        <SheetTrigger asChild>
-          <Button variant="outline" size="icon" aria-label="Open menu">
-            <Menu className="h-5 w-5" />
-          </Button>
-        </SheetTrigger>
-        <SheetContent side="left" className="p-0">
-          <Sidebar variant="mobile" />
-        </SheetContent>
-      </Sheet>
+    <header className="sticky top-0 z-20 flex items-center justify-between border-b bg-background/80 px-6 py-4 backdrop-blur">
+      <div className="lg:hidden">
+        <Sheet>
+          <SheetTrigger asChild>
+            <Button variant="outline" size="icon" aria-label="Open menu">
+              <Menu className="h-5 w-5" />
+            </Button>
+          </SheetTrigger>
+          <SheetContent side="left" className="p-0">
+            <Sidebar variant="mobile" />
+          </SheetContent>
+        </Sheet>
+      </div>
 
       <Link href="/dashboard" className="flex items-center gap-2 text-lg font-semibold">
         <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-primary text-primary-foreground">
