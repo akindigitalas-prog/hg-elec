@@ -1,0 +1,472 @@
+category,subcategory,name,brand,sku,unit,vat_rate,internal_unit_price,internal_cost,type,active,tags
+Appareillage,Prises,Prise 2P+T 16A encastrable,Legrand,APP-LGR-001,piece,20,0,0,fourniture,true,prise;legrand
+Appareillage,Prises,Prise 2P+T 16A saillie,Legrand,APP-LGR-002,piece,20,0,0,fourniture,true,prise;legrand
+Appareillage,Prises,Prise 2P+T 16A etanche IP55,Legrand,APP-LGR-003,piece,20,0,0,fourniture,true,prise;etanche;legrand
+Appareillage,Prises,Prise double 2P+T,Legrand,APP-LGR-004,piece,20,0,0,fourniture,true,prise;legrand
+Appareillage,Prises,Prise triple 2P+T,Legrand,APP-LGR-005,piece,20,0,0,fourniture,true,prise;legrand
+Appareillage,Prises,Prise 2P+T USB,Legrand,APP-LGR-006,piece,20,0,0,fourniture,true,prise;usb;legrand
+Appareillage,Prises,Prise RJ45 Cat6,Legrand,APP-LGR-007,piece,20,0,0,fourniture,true,prise;rj45;legrand
+Appareillage,Prises,Prise TV coaxiale,Legrand,APP-LGR-008,piece,20,0,0,fourniture,true,prise;tv;legrand
+Appareillage,Prises,Prise HDMI,Legrand,APP-LGR-009,piece,20,0,0,fourniture,true,prise;legrand
+Appareillage,Prises,Prise telephone RJ11,Legrand,APP-LGR-010,piece,20,0,0,fourniture,true,prise;legrand
+Appareillage,Interrupteurs,Interrupteur simple,Legrand,APP-LGR-011,piece,20,0,0,fourniture,true,interrupteur;legrand
+Appareillage,Interrupteurs,Interrupteur va-et-vient,Legrand,APP-LGR-012,piece,20,0,0,fourniture,true,interrupteur;va-et-vient;legrand
+Appareillage,Interrupteurs,Interrupteur double va-et-vient,Legrand,APP-LGR-013,piece,20,0,0,fourniture,true,interrupteur;va-et-vient;legrand
+Appareillage,Interrupteurs,Interrupteur poussoir,Legrand,APP-LGR-014,piece,20,0,0,fourniture,true,interrupteur;poussoir;legrand
+Appareillage,Interrupteurs,Interrupteur poussoir lumineux,Legrand,APP-LGR-015,piece,20,0,0,fourniture,true,interrupteur;poussoir;legrand
+Appareillage,Interrupteurs,Interrupteur bipolaire,Legrand,APP-LGR-016,piece,20,0,0,fourniture,true,interrupteur;legrand
+Appareillage,Interrupteurs,Interrupteur temporise,Legrand,APP-LGR-017,piece,20,0,0,fourniture,true,interrupteur;legrand
+Appareillage,Interrupteurs,Variateur LED,Legrand,APP-LGR-018,piece,20,0,0,fourniture,true,interrupteur;variateur;led;legrand
+Appareillage,Interrupteurs,Variateur universel,Legrand,APP-LGR-019,piece,20,0,0,fourniture,true,interrupteur;variateur;legrand
+Appareillage,Interrupteurs,Commande volet roulant,Legrand,APP-LGR-020,piece,20,0,0,fourniture,true,interrupteur;volet-roulant;legrand
+Appareillage,Plaques,Plaque 1 poste,Legrand,APP-LGR-021,piece,20,0,0,fourniture,true,plaque;legrand
+Appareillage,Plaques,Plaque 2 postes,Legrand,APP-LGR-022,piece,20,0,0,fourniture,true,plaque;legrand
+Appareillage,Plaques,Plaque 3 postes,Legrand,APP-LGR-023,piece,20,0,0,fourniture,true,plaque;legrand
+Appareillage,Plaques,Plaque 4 postes,Legrand,APP-LGR-024,piece,20,0,0,fourniture,true,plaque;legrand
+Appareillage,Plaques,Plaque etanche IP55,Legrand,APP-LGR-025,piece,20,0,0,fourniture,true,plaque;etanche;legrand
+Appareillage,Sorties de cable,Sortie de cable 16A,Legrand,APP-LGR-026,piece,20,0,0,fourniture,true,sortie;cable;legrand
+Appareillage,Sorties de cable,Sortie de cable 20A,Legrand,APP-LGR-027,piece,20,0,0,fourniture,true,sortie;cable;legrand
+Appareillage,Sorties de cable,Sortie de cable 32A,Legrand,APP-LGR-028,piece,20,0,0,fourniture,true,sortie;cable;legrand
+Appareillage,Boitiers,Boitier encastrable 40mm,Legrand,APP-LGR-029,piece,20,0,0,fourniture,true,boitier;legrand
+Appareillage,Boitiers,Boitier encastrable 50mm,Legrand,APP-LGR-030,piece,20,0,0,fourniture,true,boitier;legrand
+Appareillage,Boitiers,Boitier encastrable 67mm,Legrand,APP-LGR-031,piece,20,0,0,fourniture,true,boitier;legrand
+Appareillage,Boitiers,Boite de derivation encastrable,Legrand,APP-LGR-032,piece,20,0,0,fourniture,true,boitier;legrand
+Appareillage,Boitiers,Boite de derivation etanche IP65,Legrand,APP-LGR-033,piece,20,0,0,fourniture,true,boitier;etanche;legrand
+Appareillage,Boitiers,Boitier DCL plafond,Legrand,APP-LGR-034,piece,20,0,0,fourniture,true,boitier;dcl;legrand
+Appareillage,Commandes,Commande variateur rotatif,Legrand,APP-LGR-035,piece,20,0,0,fourniture,true,commande;variateur;legrand
+Appareillage,Commandes,Commande variateur poussoir,Legrand,APP-LGR-036,piece,20,0,0,fourniture,true,commande;poussoir;variateur;legrand
+Appareillage,Commandes,Commande scenario domotique,Legrand,APP-LGR-037,piece,20,0,0,fourniture,true,commande;legrand
+Appareillage,Commandes,Commande entree/sortie,Legrand,APP-LGR-038,piece,20,0,0,fourniture,true,commande;legrand
+Appareillage,Commandes,Commande volet roulant connectee,Legrand,APP-LGR-039,piece,20,0,0,fourniture,true,commande;volet-roulant;legrand
+Appareillage,Prises,Prise 2P+T 16A encastrable,Schneider Electric,APP-SCH-001,piece,20,0,0,fourniture,true,prise;schneider
+Appareillage,Prises,Prise 2P+T 16A saillie,Schneider Electric,APP-SCH-002,piece,20,0,0,fourniture,true,prise;schneider
+Appareillage,Prises,Prise 2P+T 16A etanche IP55,Schneider Electric,APP-SCH-003,piece,20,0,0,fourniture,true,prise;etanche;schneider
+Appareillage,Prises,Prise double 2P+T,Schneider Electric,APP-SCH-004,piece,20,0,0,fourniture,true,prise;schneider
+Appareillage,Prises,Prise triple 2P+T,Schneider Electric,APP-SCH-005,piece,20,0,0,fourniture,true,prise;schneider
+Appareillage,Prises,Prise 2P+T USB,Schneider Electric,APP-SCH-006,piece,20,0,0,fourniture,true,prise;usb;schneider
+Appareillage,Prises,Prise RJ45 Cat6,Schneider Electric,APP-SCH-007,piece,20,0,0,fourniture,true,prise;rj45;schneider
+Appareillage,Prises,Prise TV coaxiale,Schneider Electric,APP-SCH-008,piece,20,0,0,fourniture,true,prise;tv;schneider
+Appareillage,Prises,Prise HDMI,Schneider Electric,APP-SCH-009,piece,20,0,0,fourniture,true,prise;schneider
+Appareillage,Prises,Prise telephone RJ11,Schneider Electric,APP-SCH-010,piece,20,0,0,fourniture,true,prise;schneider
+Appareillage,Interrupteurs,Interrupteur simple,Schneider Electric,APP-SCH-011,piece,20,0,0,fourniture,true,interrupteur;schneider
+Appareillage,Interrupteurs,Interrupteur va-et-vient,Schneider Electric,APP-SCH-012,piece,20,0,0,fourniture,true,interrupteur;va-et-vient;schneider
+Appareillage,Interrupteurs,Interrupteur double va-et-vient,Schneider Electric,APP-SCH-013,piece,20,0,0,fourniture,true,interrupteur;va-et-vient;schneider
+Appareillage,Interrupteurs,Interrupteur poussoir,Schneider Electric,APP-SCH-014,piece,20,0,0,fourniture,true,interrupteur;poussoir;schneider
+Appareillage,Interrupteurs,Interrupteur poussoir lumineux,Schneider Electric,APP-SCH-015,piece,20,0,0,fourniture,true,interrupteur;poussoir;schneider
+Appareillage,Interrupteurs,Interrupteur bipolaire,Schneider Electric,APP-SCH-016,piece,20,0,0,fourniture,true,interrupteur;schneider
+Appareillage,Interrupteurs,Interrupteur temporise,Schneider Electric,APP-SCH-017,piece,20,0,0,fourniture,true,interrupteur;schneider
+Appareillage,Interrupteurs,Variateur LED,Schneider Electric,APP-SCH-018,piece,20,0,0,fourniture,true,interrupteur;variateur;led;schneider
+Appareillage,Interrupteurs,Variateur universel,Schneider Electric,APP-SCH-019,piece,20,0,0,fourniture,true,interrupteur;variateur;schneider
+Appareillage,Interrupteurs,Commande volet roulant,Schneider Electric,APP-SCH-020,piece,20,0,0,fourniture,true,interrupteur;volet-roulant;schneider
+Appareillage,Plaques,Plaque 1 poste,Schneider Electric,APP-SCH-021,piece,20,0,0,fourniture,true,plaque;schneider
+Appareillage,Plaques,Plaque 2 postes,Schneider Electric,APP-SCH-022,piece,20,0,0,fourniture,true,plaque;schneider
+Appareillage,Plaques,Plaque 3 postes,Schneider Electric,APP-SCH-023,piece,20,0,0,fourniture,true,plaque;schneider
+Appareillage,Plaques,Plaque 4 postes,Schneider Electric,APP-SCH-024,piece,20,0,0,fourniture,true,plaque;schneider
+Appareillage,Plaques,Plaque etanche IP55,Schneider Electric,APP-SCH-025,piece,20,0,0,fourniture,true,plaque;etanche;schneider
+Appareillage,Sorties de cable,Sortie de cable 16A,Schneider Electric,APP-SCH-026,piece,20,0,0,fourniture,true,sortie;cable;schneider
+Appareillage,Sorties de cable,Sortie de cable 20A,Schneider Electric,APP-SCH-027,piece,20,0,0,fourniture,true,sortie;cable;schneider
+Appareillage,Sorties de cable,Sortie de cable 32A,Schneider Electric,APP-SCH-028,piece,20,0,0,fourniture,true,sortie;cable;schneider
+Appareillage,Boitiers,Boitier encastrable 40mm,Schneider Electric,APP-SCH-029,piece,20,0,0,fourniture,true,boitier;schneider
+Appareillage,Boitiers,Boitier encastrable 50mm,Schneider Electric,APP-SCH-030,piece,20,0,0,fourniture,true,boitier;schneider
+Appareillage,Boitiers,Boitier encastrable 67mm,Schneider Electric,APP-SCH-031,piece,20,0,0,fourniture,true,boitier;schneider
+Appareillage,Boitiers,Boite de derivation encastrable,Schneider Electric,APP-SCH-032,piece,20,0,0,fourniture,true,boitier;schneider
+Appareillage,Boitiers,Boite de derivation etanche IP65,Schneider Electric,APP-SCH-033,piece,20,0,0,fourniture,true,boitier;etanche;schneider
+Appareillage,Boitiers,Boitier DCL plafond,Schneider Electric,APP-SCH-034,piece,20,0,0,fourniture,true,boitier;dcl;schneider
+Appareillage,Commandes,Commande variateur rotatif,Schneider Electric,APP-SCH-035,piece,20,0,0,fourniture,true,commande;variateur;schneider
+Appareillage,Commandes,Commande variateur poussoir,Schneider Electric,APP-SCH-036,piece,20,0,0,fourniture,true,commande;poussoir;variateur;schneider
+Appareillage,Commandes,Commande scenario domotique,Schneider Electric,APP-SCH-037,piece,20,0,0,fourniture,true,commande;schneider
+Appareillage,Commandes,Commande entree/sortie,Schneider Electric,APP-SCH-038,piece,20,0,0,fourniture,true,commande;schneider
+Appareillage,Commandes,Commande volet roulant connectee,Schneider Electric,APP-SCH-039,piece,20,0,0,fourniture,true,commande;volet-roulant;schneider
+Appareillage,Prises,Prise 2P+T 16A encastrable,Hager,APP-HAG-001,piece,20,0,0,fourniture,true,prise;hager
+Appareillage,Prises,Prise 2P+T 16A saillie,Hager,APP-HAG-002,piece,20,0,0,fourniture,true,prise;hager
+Appareillage,Prises,Prise 2P+T 16A etanche IP55,Hager,APP-HAG-003,piece,20,0,0,fourniture,true,prise;etanche;hager
+Appareillage,Prises,Prise double 2P+T,Hager,APP-HAG-004,piece,20,0,0,fourniture,true,prise;hager
+Appareillage,Prises,Prise triple 2P+T,Hager,APP-HAG-005,piece,20,0,0,fourniture,true,prise;hager
+Appareillage,Prises,Prise 2P+T USB,Hager,APP-HAG-006,piece,20,0,0,fourniture,true,prise;usb;hager
+Appareillage,Prises,Prise RJ45 Cat6,Hager,APP-HAG-007,piece,20,0,0,fourniture,true,prise;rj45;hager
+Appareillage,Prises,Prise TV coaxiale,Hager,APP-HAG-008,piece,20,0,0,fourniture,true,prise;tv;hager
+Appareillage,Prises,Prise HDMI,Hager,APP-HAG-009,piece,20,0,0,fourniture,true,prise;hager
+Appareillage,Prises,Prise telephone RJ11,Hager,APP-HAG-010,piece,20,0,0,fourniture,true,prise;hager
+Appareillage,Interrupteurs,Interrupteur simple,Hager,APP-HAG-011,piece,20,0,0,fourniture,true,interrupteur;hager
+Appareillage,Interrupteurs,Interrupteur va-et-vient,Hager,APP-HAG-012,piece,20,0,0,fourniture,true,interrupteur;va-et-vient;hager
+Appareillage,Interrupteurs,Interrupteur double va-et-vient,Hager,APP-HAG-013,piece,20,0,0,fourniture,true,interrupteur;va-et-vient;hager
+Appareillage,Interrupteurs,Interrupteur poussoir,Hager,APP-HAG-014,piece,20,0,0,fourniture,true,interrupteur;poussoir;hager
+Appareillage,Interrupteurs,Interrupteur poussoir lumineux,Hager,APP-HAG-015,piece,20,0,0,fourniture,true,interrupteur;poussoir;hager
+Appareillage,Interrupteurs,Interrupteur bipolaire,Hager,APP-HAG-016,piece,20,0,0,fourniture,true,interrupteur;hager
+Appareillage,Interrupteurs,Interrupteur temporise,Hager,APP-HAG-017,piece,20,0,0,fourniture,true,interrupteur;hager
+Appareillage,Interrupteurs,Variateur LED,Hager,APP-HAG-018,piece,20,0,0,fourniture,true,interrupteur;variateur;led;hager
+Appareillage,Interrupteurs,Variateur universel,Hager,APP-HAG-019,piece,20,0,0,fourniture,true,interrupteur;variateur;hager
+Appareillage,Interrupteurs,Commande volet roulant,Hager,APP-HAG-020,piece,20,0,0,fourniture,true,interrupteur;volet-roulant;hager
+Appareillage,Plaques,Plaque 1 poste,Hager,APP-HAG-021,piece,20,0,0,fourniture,true,plaque;hager
+Appareillage,Plaques,Plaque 2 postes,Hager,APP-HAG-022,piece,20,0,0,fourniture,true,plaque;hager
+Appareillage,Plaques,Plaque 3 postes,Hager,APP-HAG-023,piece,20,0,0,fourniture,true,plaque;hager
+Appareillage,Plaques,Plaque 4 postes,Hager,APP-HAG-024,piece,20,0,0,fourniture,true,plaque;hager
+Appareillage,Plaques,Plaque etanche IP55,Hager,APP-HAG-025,piece,20,0,0,fourniture,true,plaque;etanche;hager
+Appareillage,Sorties de cable,Sortie de cable 16A,Hager,APP-HAG-026,piece,20,0,0,fourniture,true,sortie;cable;hager
+Appareillage,Sorties de cable,Sortie de cable 20A,Hager,APP-HAG-027,piece,20,0,0,fourniture,true,sortie;cable;hager
+Appareillage,Sorties de cable,Sortie de cable 32A,Hager,APP-HAG-028,piece,20,0,0,fourniture,true,sortie;cable;hager
+Appareillage,Boitiers,Boitier encastrable 40mm,Hager,APP-HAG-029,piece,20,0,0,fourniture,true,boitier;hager
+Appareillage,Boitiers,Boitier encastrable 50mm,Hager,APP-HAG-030,piece,20,0,0,fourniture,true,boitier;hager
+Appareillage,Boitiers,Boitier encastrable 67mm,Hager,APP-HAG-031,piece,20,0,0,fourniture,true,boitier;hager
+Appareillage,Boitiers,Boite de derivation encastrable,Hager,APP-HAG-032,piece,20,0,0,fourniture,true,boitier;hager
+Appareillage,Boitiers,Boite de derivation etanche IP65,Hager,APP-HAG-033,piece,20,0,0,fourniture,true,boitier;etanche;hager
+Appareillage,Boitiers,Boitier DCL plafond,Hager,APP-HAG-034,piece,20,0,0,fourniture,true,boitier;dcl;hager
+Appareillage,Commandes,Commande variateur rotatif,Hager,APP-HAG-035,piece,20,0,0,fourniture,true,commande;variateur;hager
+Appareillage,Commandes,Commande variateur poussoir,Hager,APP-HAG-036,piece,20,0,0,fourniture,true,commande;poussoir;variateur;hager
+Appareillage,Commandes,Commande scenario domotique,Hager,APP-HAG-037,piece,20,0,0,fourniture,true,commande;hager
+Appareillage,Commandes,Commande entree/sortie,Hager,APP-HAG-038,piece,20,0,0,fourniture,true,commande;hager
+Appareillage,Commandes,Commande volet roulant connectee,Hager,APP-HAG-039,piece,20,0,0,fourniture,true,commande;volet-roulant;hager
+Appareillage,Prises,Prise 2P+T 16A encastrable,Gewiss,APP-GEW-001,piece,20,0,0,fourniture,true,prise;gewiss
+Appareillage,Prises,Prise 2P+T 16A saillie,Gewiss,APP-GEW-002,piece,20,0,0,fourniture,true,prise;gewiss
+Appareillage,Prises,Prise 2P+T 16A etanche IP55,Gewiss,APP-GEW-003,piece,20,0,0,fourniture,true,prise;etanche;gewiss
+Appareillage,Prises,Prise double 2P+T,Gewiss,APP-GEW-004,piece,20,0,0,fourniture,true,prise;gewiss
+Appareillage,Prises,Prise triple 2P+T,Gewiss,APP-GEW-005,piece,20,0,0,fourniture,true,prise;gewiss
+Appareillage,Prises,Prise 2P+T USB,Gewiss,APP-GEW-006,piece,20,0,0,fourniture,true,prise;usb;gewiss
+Appareillage,Prises,Prise RJ45 Cat6,Gewiss,APP-GEW-007,piece,20,0,0,fourniture,true,prise;rj45;gewiss
+Appareillage,Prises,Prise TV coaxiale,Gewiss,APP-GEW-008,piece,20,0,0,fourniture,true,prise;tv;gewiss
+Appareillage,Prises,Prise HDMI,Gewiss,APP-GEW-009,piece,20,0,0,fourniture,true,prise;gewiss
+Appareillage,Prises,Prise telephone RJ11,Gewiss,APP-GEW-010,piece,20,0,0,fourniture,true,prise;gewiss
+Appareillage,Interrupteurs,Interrupteur simple,Gewiss,APP-GEW-011,piece,20,0,0,fourniture,true,interrupteur;gewiss
+Appareillage,Interrupteurs,Interrupteur va-et-vient,Gewiss,APP-GEW-012,piece,20,0,0,fourniture,true,interrupteur;va-et-vient;gewiss
+Appareillage,Interrupteurs,Interrupteur double va-et-vient,Gewiss,APP-GEW-013,piece,20,0,0,fourniture,true,interrupteur;va-et-vient;gewiss
+Appareillage,Interrupteurs,Interrupteur poussoir,Gewiss,APP-GEW-014,piece,20,0,0,fourniture,true,interrupteur;poussoir;gewiss
+Appareillage,Interrupteurs,Interrupteur poussoir lumineux,Gewiss,APP-GEW-015,piece,20,0,0,fourniture,true,interrupteur;poussoir;gewiss
+Appareillage,Interrupteurs,Interrupteur bipolaire,Gewiss,APP-GEW-016,piece,20,0,0,fourniture,true,interrupteur;gewiss
+Appareillage,Interrupteurs,Interrupteur temporise,Gewiss,APP-GEW-017,piece,20,0,0,fourniture,true,interrupteur;gewiss
+Appareillage,Interrupteurs,Variateur LED,Gewiss,APP-GEW-018,piece,20,0,0,fourniture,true,interrupteur;variateur;led;gewiss
+Appareillage,Interrupteurs,Variateur universel,Gewiss,APP-GEW-019,piece,20,0,0,fourniture,true,interrupteur;variateur;gewiss
+Appareillage,Interrupteurs,Commande volet roulant,Gewiss,APP-GEW-020,piece,20,0,0,fourniture,true,interrupteur;volet-roulant;gewiss
+Appareillage,Plaques,Plaque 1 poste,Gewiss,APP-GEW-021,piece,20,0,0,fourniture,true,plaque;gewiss
+Appareillage,Plaques,Plaque 2 postes,Gewiss,APP-GEW-022,piece,20,0,0,fourniture,true,plaque;gewiss
+Appareillage,Plaques,Plaque 3 postes,Gewiss,APP-GEW-023,piece,20,0,0,fourniture,true,plaque;gewiss
+Appareillage,Plaques,Plaque 4 postes,Gewiss,APP-GEW-024,piece,20,0,0,fourniture,true,plaque;gewiss
+Appareillage,Plaques,Plaque etanche IP55,Gewiss,APP-GEW-025,piece,20,0,0,fourniture,true,plaque;etanche;gewiss
+Appareillage,Sorties de cable,Sortie de cable 16A,Gewiss,APP-GEW-026,piece,20,0,0,fourniture,true,sortie;cable;gewiss
+Appareillage,Sorties de cable,Sortie de cable 20A,Gewiss,APP-GEW-027,piece,20,0,0,fourniture,true,sortie;cable;gewiss
+Appareillage,Sorties de cable,Sortie de cable 32A,Gewiss,APP-GEW-028,piece,20,0,0,fourniture,true,sortie;cable;gewiss
+Appareillage,Boitiers,Boitier encastrable 40mm,Gewiss,APP-GEW-029,piece,20,0,0,fourniture,true,boitier;gewiss
+Appareillage,Boitiers,Boitier encastrable 50mm,Gewiss,APP-GEW-030,piece,20,0,0,fourniture,true,boitier;gewiss
+Appareillage,Boitiers,Boitier encastrable 67mm,Gewiss,APP-GEW-031,piece,20,0,0,fourniture,true,boitier;gewiss
+Appareillage,Boitiers,Boite de derivation encastrable,Gewiss,APP-GEW-032,piece,20,0,0,fourniture,true,boitier;gewiss
+Appareillage,Boitiers,Boite de derivation etanche IP65,Gewiss,APP-GEW-033,piece,20,0,0,fourniture,true,boitier;etanche;gewiss
+Appareillage,Boitiers,Boitier DCL plafond,Gewiss,APP-GEW-034,piece,20,0,0,fourniture,true,boitier;dcl;gewiss
+Appareillage,Commandes,Commande variateur rotatif,Gewiss,APP-GEW-035,piece,20,0,0,fourniture,true,commande;variateur;gewiss
+Appareillage,Commandes,Commande variateur poussoir,Gewiss,APP-GEW-036,piece,20,0,0,fourniture,true,commande;poussoir;variateur;gewiss
+Appareillage,Commandes,Commande scenario domotique,Gewiss,APP-GEW-037,piece,20,0,0,fourniture,true,commande;gewiss
+Appareillage,Commandes,Commande entree/sortie,Gewiss,APP-GEW-038,piece,20,0,0,fourniture,true,commande;gewiss
+Appareillage,Commandes,Commande volet roulant connectee,Gewiss,APP-GEW-039,piece,20,0,0,fourniture,true,commande;volet-roulant;gewiss
+Protection / Tableau,Disjoncteurs,Disjoncteur 2A 1P+N,Legrand,PRO-LGR-001,piece,20,0,0,fourniture,true,disjoncteur;legrand
+Protection / Tableau,Disjoncteurs,Disjoncteur 6A 1P+N,Legrand,PRO-LGR-002,piece,20,0,0,fourniture,true,disjoncteur;legrand
+Protection / Tableau,Disjoncteurs,Disjoncteur 10A 1P+N,Legrand,PRO-LGR-003,piece,20,0,0,fourniture,true,disjoncteur;legrand
+Protection / Tableau,Disjoncteurs,Disjoncteur 16A 1P+N,Legrand,PRO-LGR-004,piece,20,0,0,fourniture,true,disjoncteur;legrand
+Protection / Tableau,Disjoncteurs,Disjoncteur 20A 1P+N,Legrand,PRO-LGR-005,piece,20,0,0,fourniture,true,disjoncteur;legrand
+Protection / Tableau,Disjoncteurs,Disjoncteur 32A 1P+N,Legrand,PRO-LGR-006,piece,20,0,0,fourniture,true,disjoncteur;legrand
+Protection / Tableau,Disjoncteurs,Disjoncteur 40A 1P+N,Legrand,PRO-LGR-007,piece,20,0,0,fourniture,true,disjoncteur;legrand
+Protection / Tableau,Disjoncteurs,Disjoncteur 63A 1P+N,Legrand,PRO-LGR-008,piece,20,0,0,fourniture,true,disjoncteur;legrand
+Protection / Tableau,Differentiels,Inter diff type AC 40A 30mA,Legrand,PRO-LGR-009,piece,20,0,0,fourniture,true,differentiel;legrand
+Protection / Tableau,Differentiels,Inter diff type A 63A 30mA,Legrand,PRO-LGR-010,piece,20,0,0,fourniture,true,differentiel;legrand
+Protection / Tableau,Differentiels,Inter diff type F 40A 30mA,Legrand,PRO-LGR-011,piece,20,0,0,fourniture,true,differentiel;legrand
+Protection / Tableau,Parafoudre,Parafoudre type 2,Legrand,PRO-LGR-012,piece,20,0,0,fourniture,true,parafoudre;legrand
+Protection / Tableau,Parafoudre,Parafoudre type 1+2,Legrand,PRO-LGR-013,piece,20,0,0,fourniture,true,parafoudre;legrand
+Protection / Tableau,Tableaux,Tableau 1 rangee 13 modules,Legrand,PRO-LGR-014,piece,20,0,0,fourniture,true,tableau;legrand
+Protection / Tableau,Tableaux,Tableau 2 rangees 13 modules,Legrand,PRO-LGR-015,piece,20,0,0,fourniture,true,tableau;legrand
+Protection / Tableau,Tableaux,Tableau 3 rangees 18 modules,Legrand,PRO-LGR-016,piece,20,0,0,fourniture,true,tableau;legrand
+Protection / Tableau,Tableaux,Tableau 4 rangees 18 modules,Legrand,PRO-LGR-017,piece,20,0,0,fourniture,true,tableau;legrand
+Protection / Tableau,Accessoires,Peigne horizontal 13 modules,Legrand,PRO-LGR-018,piece,20,0,0,fourniture,true,accessoire;tableau;legrand
+Protection / Tableau,Accessoires,Peigne vertical 13 modules,Legrand,PRO-LGR-019,piece,20,0,0,fourniture,true,accessoire;tableau;legrand
+Protection / Tableau,Accessoires,Bornier de terre,Legrand,PRO-LGR-020,piece,20,0,0,fourniture,true,accessoire;tableau;legrand
+Protection / Tableau,Accessoires,Bornier de neutre,Legrand,PRO-LGR-021,piece,20,0,0,fourniture,true,accessoire;tableau;legrand
+Protection / Tableau,Accessoires,Obturateur tableau,Legrand,PRO-LGR-022,piece,20,0,0,fourniture,true,accessoire;tableau;legrand
+Protection / Tableau,Accessoires,Etiquettes tableau,Legrand,PRO-LGR-023,piece,20,0,0,fourniture,true,accessoire;tableau;legrand
+Protection / Tableau,Disjoncteurs,Disjoncteur 2A 1P+N,Schneider Electric,PRO-SCH-001,piece,20,0,0,fourniture,true,disjoncteur;schneider
+Protection / Tableau,Disjoncteurs,Disjoncteur 6A 1P+N,Schneider Electric,PRO-SCH-002,piece,20,0,0,fourniture,true,disjoncteur;schneider
+Protection / Tableau,Disjoncteurs,Disjoncteur 10A 1P+N,Schneider Electric,PRO-SCH-003,piece,20,0,0,fourniture,true,disjoncteur;schneider
+Protection / Tableau,Disjoncteurs,Disjoncteur 16A 1P+N,Schneider Electric,PRO-SCH-004,piece,20,0,0,fourniture,true,disjoncteur;schneider
+Protection / Tableau,Disjoncteurs,Disjoncteur 20A 1P+N,Schneider Electric,PRO-SCH-005,piece,20,0,0,fourniture,true,disjoncteur;schneider
+Protection / Tableau,Disjoncteurs,Disjoncteur 32A 1P+N,Schneider Electric,PRO-SCH-006,piece,20,0,0,fourniture,true,disjoncteur;schneider
+Protection / Tableau,Disjoncteurs,Disjoncteur 40A 1P+N,Schneider Electric,PRO-SCH-007,piece,20,0,0,fourniture,true,disjoncteur;schneider
+Protection / Tableau,Disjoncteurs,Disjoncteur 63A 1P+N,Schneider Electric,PRO-SCH-008,piece,20,0,0,fourniture,true,disjoncteur;schneider
+Protection / Tableau,Differentiels,Inter diff type AC 40A 30mA,Schneider Electric,PRO-SCH-009,piece,20,0,0,fourniture,true,differentiel;schneider
+Protection / Tableau,Differentiels,Inter diff type A 63A 30mA,Schneider Electric,PRO-SCH-010,piece,20,0,0,fourniture,true,differentiel;schneider
+Protection / Tableau,Differentiels,Inter diff type F 40A 30mA,Schneider Electric,PRO-SCH-011,piece,20,0,0,fourniture,true,differentiel;schneider
+Protection / Tableau,Parafoudre,Parafoudre type 2,Schneider Electric,PRO-SCH-012,piece,20,0,0,fourniture,true,parafoudre;schneider
+Protection / Tableau,Parafoudre,Parafoudre type 1+2,Schneider Electric,PRO-SCH-013,piece,20,0,0,fourniture,true,parafoudre;schneider
+Protection / Tableau,Tableaux,Tableau 1 rangee 13 modules,Schneider Electric,PRO-SCH-014,piece,20,0,0,fourniture,true,tableau;schneider
+Protection / Tableau,Tableaux,Tableau 2 rangees 13 modules,Schneider Electric,PRO-SCH-015,piece,20,0,0,fourniture,true,tableau;schneider
+Protection / Tableau,Tableaux,Tableau 3 rangees 18 modules,Schneider Electric,PRO-SCH-016,piece,20,0,0,fourniture,true,tableau;schneider
+Protection / Tableau,Tableaux,Tableau 4 rangees 18 modules,Schneider Electric,PRO-SCH-017,piece,20,0,0,fourniture,true,tableau;schneider
+Protection / Tableau,Accessoires,Peigne horizontal 13 modules,Schneider Electric,PRO-SCH-018,piece,20,0,0,fourniture,true,accessoire;tableau;schneider
+Protection / Tableau,Accessoires,Peigne vertical 13 modules,Schneider Electric,PRO-SCH-019,piece,20,0,0,fourniture,true,accessoire;tableau;schneider
+Protection / Tableau,Accessoires,Bornier de terre,Schneider Electric,PRO-SCH-020,piece,20,0,0,fourniture,true,accessoire;tableau;schneider
+Protection / Tableau,Accessoires,Bornier de neutre,Schneider Electric,PRO-SCH-021,piece,20,0,0,fourniture,true,accessoire;tableau;schneider
+Protection / Tableau,Accessoires,Obturateur tableau,Schneider Electric,PRO-SCH-022,piece,20,0,0,fourniture,true,accessoire;tableau;schneider
+Protection / Tableau,Accessoires,Etiquettes tableau,Schneider Electric,PRO-SCH-023,piece,20,0,0,fourniture,true,accessoire;tableau;schneider
+Protection / Tableau,Disjoncteurs,Disjoncteur 2A 1P+N,Hager,PRO-HAG-001,piece,20,0,0,fourniture,true,disjoncteur;hager
+Protection / Tableau,Disjoncteurs,Disjoncteur 6A 1P+N,Hager,PRO-HAG-002,piece,20,0,0,fourniture,true,disjoncteur;hager
+Protection / Tableau,Disjoncteurs,Disjoncteur 10A 1P+N,Hager,PRO-HAG-003,piece,20,0,0,fourniture,true,disjoncteur;hager
+Protection / Tableau,Disjoncteurs,Disjoncteur 16A 1P+N,Hager,PRO-HAG-004,piece,20,0,0,fourniture,true,disjoncteur;hager
+Protection / Tableau,Disjoncteurs,Disjoncteur 20A 1P+N,Hager,PRO-HAG-005,piece,20,0,0,fourniture,true,disjoncteur;hager
+Protection / Tableau,Disjoncteurs,Disjoncteur 32A 1P+N,Hager,PRO-HAG-006,piece,20,0,0,fourniture,true,disjoncteur;hager
+Protection / Tableau,Disjoncteurs,Disjoncteur 40A 1P+N,Hager,PRO-HAG-007,piece,20,0,0,fourniture,true,disjoncteur;hager
+Protection / Tableau,Disjoncteurs,Disjoncteur 63A 1P+N,Hager,PRO-HAG-008,piece,20,0,0,fourniture,true,disjoncteur;hager
+Protection / Tableau,Differentiels,Inter diff type AC 40A 30mA,Hager,PRO-HAG-009,piece,20,0,0,fourniture,true,differentiel;hager
+Protection / Tableau,Differentiels,Inter diff type A 63A 30mA,Hager,PRO-HAG-010,piece,20,0,0,fourniture,true,differentiel;hager
+Protection / Tableau,Differentiels,Inter diff type F 40A 30mA,Hager,PRO-HAG-011,piece,20,0,0,fourniture,true,differentiel;hager
+Protection / Tableau,Parafoudre,Parafoudre type 2,Hager,PRO-HAG-012,piece,20,0,0,fourniture,true,parafoudre;hager
+Protection / Tableau,Parafoudre,Parafoudre type 1+2,Hager,PRO-HAG-013,piece,20,0,0,fourniture,true,parafoudre;hager
+Protection / Tableau,Tableaux,Tableau 1 rangee 13 modules,Hager,PRO-HAG-014,piece,20,0,0,fourniture,true,tableau;hager
+Protection / Tableau,Tableaux,Tableau 2 rangees 13 modules,Hager,PRO-HAG-015,piece,20,0,0,fourniture,true,tableau;hager
+Protection / Tableau,Tableaux,Tableau 3 rangees 18 modules,Hager,PRO-HAG-016,piece,20,0,0,fourniture,true,tableau;hager
+Protection / Tableau,Tableaux,Tableau 4 rangees 18 modules,Hager,PRO-HAG-017,piece,20,0,0,fourniture,true,tableau;hager
+Protection / Tableau,Accessoires,Peigne horizontal 13 modules,Hager,PRO-HAG-018,piece,20,0,0,fourniture,true,accessoire;tableau;hager
+Protection / Tableau,Accessoires,Peigne vertical 13 modules,Hager,PRO-HAG-019,piece,20,0,0,fourniture,true,accessoire;tableau;hager
+Protection / Tableau,Accessoires,Bornier de terre,Hager,PRO-HAG-020,piece,20,0,0,fourniture,true,accessoire;tableau;hager
+Protection / Tableau,Accessoires,Bornier de neutre,Hager,PRO-HAG-021,piece,20,0,0,fourniture,true,accessoire;tableau;hager
+Protection / Tableau,Accessoires,Obturateur tableau,Hager,PRO-HAG-022,piece,20,0,0,fourniture,true,accessoire;tableau;hager
+Protection / Tableau,Accessoires,Etiquettes tableau,Hager,PRO-HAG-023,piece,20,0,0,fourniture,true,accessoire;tableau;hager
+Protection / Tableau,Disjoncteurs,Disjoncteur 2A 1P+N,Gewiss,PRO-GEW-001,piece,20,0,0,fourniture,true,disjoncteur;gewiss
+Protection / Tableau,Disjoncteurs,Disjoncteur 6A 1P+N,Gewiss,PRO-GEW-002,piece,20,0,0,fourniture,true,disjoncteur;gewiss
+Protection / Tableau,Disjoncteurs,Disjoncteur 10A 1P+N,Gewiss,PRO-GEW-003,piece,20,0,0,fourniture,true,disjoncteur;gewiss
+Protection / Tableau,Disjoncteurs,Disjoncteur 16A 1P+N,Gewiss,PRO-GEW-004,piece,20,0,0,fourniture,true,disjoncteur;gewiss
+Protection / Tableau,Disjoncteurs,Disjoncteur 20A 1P+N,Gewiss,PRO-GEW-005,piece,20,0,0,fourniture,true,disjoncteur;gewiss
+Protection / Tableau,Disjoncteurs,Disjoncteur 32A 1P+N,Gewiss,PRO-GEW-006,piece,20,0,0,fourniture,true,disjoncteur;gewiss
+Protection / Tableau,Disjoncteurs,Disjoncteur 40A 1P+N,Gewiss,PRO-GEW-007,piece,20,0,0,fourniture,true,disjoncteur;gewiss
+Protection / Tableau,Disjoncteurs,Disjoncteur 63A 1P+N,Gewiss,PRO-GEW-008,piece,20,0,0,fourniture,true,disjoncteur;gewiss
+Protection / Tableau,Differentiels,Inter diff type AC 40A 30mA,Gewiss,PRO-GEW-009,piece,20,0,0,fourniture,true,differentiel;gewiss
+Protection / Tableau,Differentiels,Inter diff type A 63A 30mA,Gewiss,PRO-GEW-010,piece,20,0,0,fourniture,true,differentiel;gewiss
+Protection / Tableau,Differentiels,Inter diff type F 40A 30mA,Gewiss,PRO-GEW-011,piece,20,0,0,fourniture,true,differentiel;gewiss
+Protection / Tableau,Parafoudre,Parafoudre type 2,Gewiss,PRO-GEW-012,piece,20,0,0,fourniture,true,parafoudre;gewiss
+Protection / Tableau,Parafoudre,Parafoudre type 1+2,Gewiss,PRO-GEW-013,piece,20,0,0,fourniture,true,parafoudre;gewiss
+Protection / Tableau,Tableaux,Tableau 1 rangee 13 modules,Gewiss,PRO-GEW-014,piece,20,0,0,fourniture,true,tableau;gewiss
+Protection / Tableau,Tableaux,Tableau 2 rangees 13 modules,Gewiss,PRO-GEW-015,piece,20,0,0,fourniture,true,tableau;gewiss
+Protection / Tableau,Tableaux,Tableau 3 rangees 18 modules,Gewiss,PRO-GEW-016,piece,20,0,0,fourniture,true,tableau;gewiss
+Protection / Tableau,Tableaux,Tableau 4 rangees 18 modules,Gewiss,PRO-GEW-017,piece,20,0,0,fourniture,true,tableau;gewiss
+Protection / Tableau,Accessoires,Peigne horizontal 13 modules,Gewiss,PRO-GEW-018,piece,20,0,0,fourniture,true,accessoire;tableau;gewiss
+Protection / Tableau,Accessoires,Peigne vertical 13 modules,Gewiss,PRO-GEW-019,piece,20,0,0,fourniture,true,accessoire;tableau;gewiss
+Protection / Tableau,Accessoires,Bornier de terre,Gewiss,PRO-GEW-020,piece,20,0,0,fourniture,true,accessoire;tableau;gewiss
+Protection / Tableau,Accessoires,Bornier de neutre,Gewiss,PRO-GEW-021,piece,20,0,0,fourniture,true,accessoire;tableau;gewiss
+Protection / Tableau,Accessoires,Obturateur tableau,Gewiss,PRO-GEW-022,piece,20,0,0,fourniture,true,accessoire;tableau;gewiss
+Protection / Tableau,Accessoires,Etiquettes tableau,Gewiss,PRO-GEW-023,piece,20,0,0,fourniture,true,accessoire;tableau;gewiss
+Cables & Conducteurs,R2V,Cable R2V 3G1.5,Nexans,CAB-NEX-001,m,20,0,0,fourniture,true,cable;r2v;nexans
+Cables & Conducteurs,R2V,Cable R2V 3G2.5,Nexans,CAB-NEX-002,m,20,0,0,fourniture,true,cable;r2v;nexans
+Cables & Conducteurs,R2V,Cable R2V 3G6,Nexans,CAB-NEX-003,m,20,0,0,fourniture,true,cable;r2v;nexans
+Cables & Conducteurs,R2V,Cable R2V 3G10,Nexans,CAB-NEX-004,m,20,0,0,fourniture,true,cable;r2v;nexans
+Cables & Conducteurs,R2V,Cable R2V 5G1.5,Nexans,CAB-NEX-005,m,20,0,0,fourniture,true,cable;r2v;nexans
+Cables & Conducteurs,R2V,Cable R2V 5G2.5,Nexans,CAB-NEX-006,m,20,0,0,fourniture,true,cable;r2v;nexans
+Cables & Conducteurs,R2V,Cable R2V 5G6,Nexans,CAB-NEX-007,m,20,0,0,fourniture,true,cable;r2v;nexans
+Cables & Conducteurs,R2V,Cable R2V 5G10,Nexans,CAB-NEX-008,m,20,0,0,fourniture,true,cable;r2v;nexans
+Cables & Conducteurs,H07VU,Fil H07VU 1.5mm2,Nexans,CAB-NEX-009,m,20,0,0,fourniture,true,cable;h07vu;nexans
+Cables & Conducteurs,H07VU,Fil H07VU 2.5mm2,Nexans,CAB-NEX-010,m,20,0,0,fourniture,true,cable;h07vu;nexans
+Cables & Conducteurs,H07VU,Fil H07VU 6mm2,Nexans,CAB-NEX-011,m,20,0,0,fourniture,true,cable;h07vu;nexans
+Cables & Conducteurs,H07VU,Fil H07VU 10mm2,Nexans,CAB-NEX-012,m,20,0,0,fourniture,true,cable;h07vu;nexans
+Cables & Conducteurs,H07VU,Fil H07VU 16mm2,Nexans,CAB-NEX-013,m,20,0,0,fourniture,true,cable;h07vu;nexans
+Cables & Conducteurs,H07RNF,Cable H07RNF 3G1.5,Nexans,CAB-NEX-014,m,20,0,0,fourniture,true,cable;h07rnf;nexans
+Cables & Conducteurs,H07RNF,Cable H07RNF 3G2.5,Nexans,CAB-NEX-015,m,20,0,0,fourniture,true,cable;h07rnf;nexans
+Cables & Conducteurs,H07RNF,Cable H07RNF 3G4,Nexans,CAB-NEX-016,m,20,0,0,fourniture,true,cable;h07rnf;nexans
+Cables & Conducteurs,H07RNF,Cable H07RNF 3G6,Nexans,CAB-NEX-017,m,20,0,0,fourniture,true,cable;h07rnf;nexans
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 16mm,Nexans,CAB-NEX-018,m,20,0,0,fourniture,true,gaine;icta;nexans
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 20mm,Nexans,CAB-NEX-019,m,20,0,0,fourniture,true,gaine;icta;nexans
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 25mm,Nexans,CAB-NEX-020,m,20,0,0,fourniture,true,gaine;icta;nexans
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 32mm,Nexans,CAB-NEX-021,m,20,0,0,fourniture,true,gaine;icta;nexans
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 40mm,Nexans,CAB-NEX-022,m,20,0,0,fourniture,true,gaine;icta;nexans
+Cables & Conducteurs,Gaines techniques,Gaine technique 40x60,Nexans,CAB-NEX-023,m,20,0,0,fourniture,true,gaine;technique;nexans
+Cables & Conducteurs,Gaines techniques,Gaine technique 60x80,Nexans,CAB-NEX-024,m,20,0,0,fourniture,true,gaine;technique;nexans
+Cables & Conducteurs,Gaines techniques,Gaine technique 80x100,Nexans,CAB-NEX-025,m,20,0,0,fourniture,true,gaine;technique;nexans
+Cables & Conducteurs,R2V,Cable R2V 3G1.5,Prysmian,CAB-PRY-001,m,20,0,0,fourniture,true,cable;r2v;prysmian
+Cables & Conducteurs,R2V,Cable R2V 3G2.5,Prysmian,CAB-PRY-002,m,20,0,0,fourniture,true,cable;r2v;prysmian
+Cables & Conducteurs,R2V,Cable R2V 3G6,Prysmian,CAB-PRY-003,m,20,0,0,fourniture,true,cable;r2v;prysmian
+Cables & Conducteurs,R2V,Cable R2V 3G10,Prysmian,CAB-PRY-004,m,20,0,0,fourniture,true,cable;r2v;prysmian
+Cables & Conducteurs,R2V,Cable R2V 5G1.5,Prysmian,CAB-PRY-005,m,20,0,0,fourniture,true,cable;r2v;prysmian
+Cables & Conducteurs,R2V,Cable R2V 5G2.5,Prysmian,CAB-PRY-006,m,20,0,0,fourniture,true,cable;r2v;prysmian
+Cables & Conducteurs,R2V,Cable R2V 5G6,Prysmian,CAB-PRY-007,m,20,0,0,fourniture,true,cable;r2v;prysmian
+Cables & Conducteurs,R2V,Cable R2V 5G10,Prysmian,CAB-PRY-008,m,20,0,0,fourniture,true,cable;r2v;prysmian
+Cables & Conducteurs,H07VU,Fil H07VU 1.5mm2,Prysmian,CAB-PRY-009,m,20,0,0,fourniture,true,cable;h07vu;prysmian
+Cables & Conducteurs,H07VU,Fil H07VU 2.5mm2,Prysmian,CAB-PRY-010,m,20,0,0,fourniture,true,cable;h07vu;prysmian
+Cables & Conducteurs,H07VU,Fil H07VU 6mm2,Prysmian,CAB-PRY-011,m,20,0,0,fourniture,true,cable;h07vu;prysmian
+Cables & Conducteurs,H07VU,Fil H07VU 10mm2,Prysmian,CAB-PRY-012,m,20,0,0,fourniture,true,cable;h07vu;prysmian
+Cables & Conducteurs,H07VU,Fil H07VU 16mm2,Prysmian,CAB-PRY-013,m,20,0,0,fourniture,true,cable;h07vu;prysmian
+Cables & Conducteurs,H07RNF,Cable H07RNF 3G1.5,Prysmian,CAB-PRY-014,m,20,0,0,fourniture,true,cable;h07rnf;prysmian
+Cables & Conducteurs,H07RNF,Cable H07RNF 3G2.5,Prysmian,CAB-PRY-015,m,20,0,0,fourniture,true,cable;h07rnf;prysmian
+Cables & Conducteurs,H07RNF,Cable H07RNF 3G4,Prysmian,CAB-PRY-016,m,20,0,0,fourniture,true,cable;h07rnf;prysmian
+Cables & Conducteurs,H07RNF,Cable H07RNF 3G6,Prysmian,CAB-PRY-017,m,20,0,0,fourniture,true,cable;h07rnf;prysmian
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 16mm,Prysmian,CAB-PRY-018,m,20,0,0,fourniture,true,gaine;icta;prysmian
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 20mm,Prysmian,CAB-PRY-019,m,20,0,0,fourniture,true,gaine;icta;prysmian
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 25mm,Prysmian,CAB-PRY-020,m,20,0,0,fourniture,true,gaine;icta;prysmian
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 32mm,Prysmian,CAB-PRY-021,m,20,0,0,fourniture,true,gaine;icta;prysmian
+Cables & Conducteurs,Gaines ICTA,Gaine ICTA 40mm,Prysmian,CAB-PRY-022,m,20,0,0,fourniture,true,gaine;icta;prysmian
+Cables & Conducteurs,Gaines techniques,Gaine technique 40x60,Prysmian,CAB-PRY-023,m,20,0,0,fourniture,true,gaine;technique;prysmian
+Cables & Conducteurs,Gaines techniques,Gaine technique 60x80,Prysmian,CAB-PRY-024,m,20,0,0,fourniture,true,gaine;technique;prysmian
+Cables & Conducteurs,Gaines techniques,Gaine technique 80x100,Prysmian,CAB-PRY-025,m,20,0,0,fourniture,true,gaine;technique;prysmian
+Eclairage,Spots,Spot LED encastrable 5W,Philips,ECL-PHI-001,piece,20,0,0,fourniture,true,eclairage;spot;led;philips
+Eclairage,Spots,Spot LED encastrable 7W,Philips,ECL-PHI-002,piece,20,0,0,fourniture,true,eclairage;spot;led;philips
+Eclairage,Spots,Spot LED encastrable 10W,Philips,ECL-PHI-003,piece,20,0,0,fourniture,true,eclairage;spot;led;philips
+Eclairage,Spots,Spot LED encastrable 12W,Philips,ECL-PHI-004,piece,20,0,0,fourniture,true,eclairage;spot;led;philips
+Eclairage,Plafonniers,Plafonnier LED 18W,Philips,ECL-PHI-005,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;philips
+Eclairage,Plafonniers,Plafonnier LED 24W,Philips,ECL-PHI-006,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;philips
+Eclairage,Plafonniers,Plafonnier LED 36W,Philips,ECL-PHI-007,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;philips
+Eclairage,Appliques,Applique LED 10W,Philips,ECL-PHI-008,piece,20,0,0,fourniture,true,eclairage;applique;led;philips
+Eclairage,Appliques,Applique LED 15W,Philips,ECL-PHI-009,piece,20,0,0,fourniture,true,eclairage;applique;led;philips
+Eclairage,Appliques,Applique LED 20W,Philips,ECL-PHI-010,piece,20,0,0,fourniture,true,eclairage;applique;led;philips
+Eclairage,Reglettes,Reglette LED 60cm,Philips,ECL-PHI-011,piece,20,0,0,fourniture,true,eclairage;reglette;led;philips
+Eclairage,Reglettes,Reglette LED 120cm,Philips,ECL-PHI-012,piece,20,0,0,fourniture,true,eclairage;reglette;led;philips
+Eclairage,Reglettes,Reglette LED 150cm,Philips,ECL-PHI-013,piece,20,0,0,fourniture,true,eclairage;reglette;led;philips
+Eclairage,Projecteurs,Projecteur LED 20W,Philips,ECL-PHI-014,piece,20,0,0,fourniture,true,eclairage;projecteur;led;philips
+Eclairage,Projecteurs,Projecteur LED 50W,Philips,ECL-PHI-015,piece,20,0,0,fourniture,true,eclairage;projecteur;led;philips
+Eclairage,Projecteurs,Projecteur LED 100W,Philips,ECL-PHI-016,piece,20,0,0,fourniture,true,eclairage;projecteur;led;philips
+Eclairage,Spots,Spot LED encastrable 5W,Ledvance,ECL-LED-001,piece,20,0,0,fourniture,true,eclairage;spot;led;ledvance
+Eclairage,Spots,Spot LED encastrable 7W,Ledvance,ECL-LED-002,piece,20,0,0,fourniture,true,eclairage;spot;led;ledvance
+Eclairage,Spots,Spot LED encastrable 10W,Ledvance,ECL-LED-003,piece,20,0,0,fourniture,true,eclairage;spot;led;ledvance
+Eclairage,Spots,Spot LED encastrable 12W,Ledvance,ECL-LED-004,piece,20,0,0,fourniture,true,eclairage;spot;led;ledvance
+Eclairage,Plafonniers,Plafonnier LED 18W,Ledvance,ECL-LED-005,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;ledvance
+Eclairage,Plafonniers,Plafonnier LED 24W,Ledvance,ECL-LED-006,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;ledvance
+Eclairage,Plafonniers,Plafonnier LED 36W,Ledvance,ECL-LED-007,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;ledvance
+Eclairage,Appliques,Applique LED 10W,Ledvance,ECL-LED-008,piece,20,0,0,fourniture,true,eclairage;applique;led;ledvance
+Eclairage,Appliques,Applique LED 15W,Ledvance,ECL-LED-009,piece,20,0,0,fourniture,true,eclairage;applique;led;ledvance
+Eclairage,Appliques,Applique LED 20W,Ledvance,ECL-LED-010,piece,20,0,0,fourniture,true,eclairage;applique;led;ledvance
+Eclairage,Reglettes,Reglette LED 60cm,Ledvance,ECL-LED-011,piece,20,0,0,fourniture,true,eclairage;reglette;led;ledvance
+Eclairage,Reglettes,Reglette LED 120cm,Ledvance,ECL-LED-012,piece,20,0,0,fourniture,true,eclairage;reglette;led;ledvance
+Eclairage,Reglettes,Reglette LED 150cm,Ledvance,ECL-LED-013,piece,20,0,0,fourniture,true,eclairage;reglette;led;ledvance
+Eclairage,Projecteurs,Projecteur LED 20W,Ledvance,ECL-LED-014,piece,20,0,0,fourniture,true,eclairage;projecteur;led;ledvance
+Eclairage,Projecteurs,Projecteur LED 50W,Ledvance,ECL-LED-015,piece,20,0,0,fourniture,true,eclairage;projecteur;led;ledvance
+Eclairage,Projecteurs,Projecteur LED 100W,Ledvance,ECL-LED-016,piece,20,0,0,fourniture,true,eclairage;projecteur;led;ledvance
+Eclairage,Spots,Spot LED encastrable 5W,Thorn,ECL-THO-001,piece,20,0,0,fourniture,true,eclairage;spot;led;thorn
+Eclairage,Spots,Spot LED encastrable 7W,Thorn,ECL-THO-002,piece,20,0,0,fourniture,true,eclairage;spot;led;thorn
+Eclairage,Spots,Spot LED encastrable 10W,Thorn,ECL-THO-003,piece,20,0,0,fourniture,true,eclairage;spot;led;thorn
+Eclairage,Spots,Spot LED encastrable 12W,Thorn,ECL-THO-004,piece,20,0,0,fourniture,true,eclairage;spot;led;thorn
+Eclairage,Plafonniers,Plafonnier LED 18W,Thorn,ECL-THO-005,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;thorn
+Eclairage,Plafonniers,Plafonnier LED 24W,Thorn,ECL-THO-006,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;thorn
+Eclairage,Plafonniers,Plafonnier LED 36W,Thorn,ECL-THO-007,piece,20,0,0,fourniture,true,eclairage;plafonnier;led;thorn
+Eclairage,Appliques,Applique LED 10W,Thorn,ECL-THO-008,piece,20,0,0,fourniture,true,eclairage;applique;led;thorn
+Eclairage,Appliques,Applique LED 15W,Thorn,ECL-THO-009,piece,20,0,0,fourniture,true,eclairage;applique;led;thorn
+Eclairage,Appliques,Applique LED 20W,Thorn,ECL-THO-010,piece,20,0,0,fourniture,true,eclairage;applique;led;thorn
+Eclairage,Reglettes,Reglette LED 60cm,Thorn,ECL-THO-011,piece,20,0,0,fourniture,true,eclairage;reglette;led;thorn
+Eclairage,Reglettes,Reglette LED 120cm,Thorn,ECL-THO-012,piece,20,0,0,fourniture,true,eclairage;reglette;led;thorn
+Eclairage,Reglettes,Reglette LED 150cm,Thorn,ECL-THO-013,piece,20,0,0,fourniture,true,eclairage;reglette;led;thorn
+Eclairage,Projecteurs,Projecteur LED 20W,Thorn,ECL-THO-014,piece,20,0,0,fourniture,true,eclairage;projecteur;led;thorn
+Eclairage,Projecteurs,Projecteur LED 50W,Thorn,ECL-THO-015,piece,20,0,0,fourniture,true,eclairage;projecteur;led;thorn
+Eclairage,Projecteurs,Projecteur LED 100W,Thorn,ECL-THO-016,piece,20,0,0,fourniture,true,eclairage;projecteur;led;thorn
+Courant faible,RJ45,Prise RJ45 Cat6,Legrand,CF-LGR-001,piece,20,0,0,fourniture,true,courant-faible;rj45;prise;legrand
+Courant faible,RJ45,Keystone RJ45 Cat6,Legrand,CF-LGR-002,piece,20,0,0,fourniture,true,courant-faible;rj45;legrand
+Courant faible,RJ45,Panneau de brassage 12 ports,Legrand,CF-LGR-003,piece,20,0,0,fourniture,true,courant-faible;rj45;legrand
+Courant faible,RJ45,Panneau de brassage 24 ports,Legrand,CF-LGR-004,piece,20,0,0,fourniture,true,courant-faible;rj45;legrand
+Courant faible,RJ45,Prise RJ45 Cat6,Schneider Electric,CF-SCH-001,piece,20,0,0,fourniture,true,courant-faible;rj45;prise;schneider
+Courant faible,RJ45,Keystone RJ45 Cat6,Schneider Electric,CF-SCH-002,piece,20,0,0,fourniture,true,courant-faible;rj45;schneider
+Courant faible,RJ45,Panneau de brassage 12 ports,Schneider Electric,CF-SCH-003,piece,20,0,0,fourniture,true,courant-faible;rj45;schneider
+Courant faible,RJ45,Panneau de brassage 24 ports,Schneider Electric,CF-SCH-004,piece,20,0,0,fourniture,true,courant-faible;rj45;schneider
+Courant faible,RJ45,Cable RJ45 Cat6,Legrand,CF-LGR-005,piece,20,0,0,fourniture,true,courant-faible;rj45;cable;legrand
+Courant faible,RJ45,Cable RJ45 Cat6 blindage,Legrand,CF-LGR-006,piece,20,0,0,fourniture,true,courant-faible;rj45;cable;legrand
+Courant faible,RJ45,Switch 8 ports,Legrand,CF-LGR-007,piece,20,0,0,fourniture,true,courant-faible;rj45;legrand
+Courant faible,RJ45,Switch 16 ports,Legrand,CF-LGR-008,piece,20,0,0,fourniture,true,courant-faible;rj45;legrand
+Courant faible,RJ45,Cable RJ45 Cat6 (m),Nexans,CF-NEX-001,m,20,0,0,fourniture,true,courant-faible;rj45;cable;nexans
+Courant faible,TV,Prise TV coaxiale,Legrand,CF-LGR-009,piece,20,0,0,fourniture,true,courant-faible;tv;prise;legrand
+Courant faible,TV,Prise TV/SAT,Legrand,CF-LGR-010,piece,20,0,0,fourniture,true,courant-faible;tv;sat;prise;legrand
+Courant faible,TV,Repartiteur TV 2 sorties,Legrand,CF-LGR-011,piece,20,0,0,fourniture,true,courant-faible;tv;legrand
+Courant faible,TV,Repartiteur TV 4 sorties,Legrand,CF-LGR-012,piece,20,0,0,fourniture,true,courant-faible;tv;legrand
+Courant faible,TV,Connecteur F,Legrand,CF-LGR-013,piece,20,0,0,fourniture,true,courant-faible;tv;legrand
+Courant faible,TV,Cable coaxial TV (m),Nexans,CF-NEX-002,m,20,0,0,fourniture,true,courant-faible;tv;cable;nexans
+Courant faible,Telephone,Prise telephone RJ11,Legrand,CF-LGR-014,piece,20,0,0,fourniture,true,courant-faible;telephone;prise;legrand
+Courant faible,Telephone,Module telephone RJ11,Legrand,CF-LGR-015,piece,20,0,0,fourniture,true,courant-faible;telephone;legrand
+Courant faible,Domotique,Micromodule relais 1,Shelly,CF-SHE-001,piece,20,0,0,fourniture,true,courant-faible;domotique;shelly
+Courant faible,Domotique,Micromodule relais 2,Shelly,CF-SHE-002,piece,20,0,0,fourniture,true,courant-faible;domotique;shelly
+Courant faible,Domotique,Commande volet roulant,Somfy,CF-SOM-001,piece,20,0,0,fourniture,true,courant-faible;domotique;volet-roulant;somfy
+Courant faible,Domotique,Thermostat connecte,Netatmo,CF-NET-001,piece,20,0,0,fourniture,true,courant-faible;domotique;thermostat;netatmo
+Courant faible,Domotique,Capteur ouverture,Netatmo,CF-NET-002,piece,20,0,0,fourniture,true,courant-faible;domotique;netatmo
+Courant faible,Domotique,Prise connectee,Somfy,CF-SOM-002,piece,20,0,0,fourniture,true,courant-faible;domotique;prise;somfy
+Courant faible,Interphonie,Interphone audio,Hikvision,CF-HIK-001,piece,20,0,0,fourniture,true,courant-faible;interphonie;interphone;hikvision
+Courant faible,Interphonie,Visiophone,Dahua,CF-DAH-001,piece,20,0,0,fourniture,true,courant-faible;interphonie;visiophone;visserie;dahua
+Courant faible,Interphonie,Platine de rue,Hikvision,CF-HIK-002,piece,20,0,0,fourniture,true,courant-faible;interphonie;hikvision
+Courant faible,Interphonie,Moniteur interieur,Dahua,CF-DAH-002,piece,20,0,0,fourniture,true,courant-faible;interphonie;dahua
+Chauffage / Ventilation,VMC,VMC simple flux,Aldes,CV-ALD-001,piece,20,0,0,fourniture,true,vmc;ventilation;aldes
+Chauffage / Ventilation,VMC,VMC hygro,Aldes,CV-ALD-002,piece,20,0,0,fourniture,true,vmc;ventilation;aldes
+Chauffage / Ventilation,VMC,Caisson VMC,Aldes,CV-ALD-003,piece,20,0,0,fourniture,true,vmc;ventilation;aldes
+Chauffage / Ventilation,VMC,Kit VMC,Aldes,CV-ALD-004,piece,20,0,0,fourniture,true,vmc;ventilation;aldes
+Chauffage / Ventilation,VMC,Gaine VMC 80mm,Aldes,CV-ALD-005,m,20,0,0,fourniture,true,vmc;ventilation;gaine;aldes
+Chauffage / Ventilation,VMC,Gaine VMC 125mm,Aldes,CV-ALD-006,m,20,0,0,fourniture,true,vmc;ventilation;gaine;aldes
+Chauffage / Ventilation,VMC,Bouche VMC cuisine,Aldes,CV-ALD-007,piece,20,0,0,fourniture,true,vmc;ventilation;aldes
+Chauffage / Ventilation,VMC,Bouche VMC salle de bain,Aldes,CV-ALD-008,piece,20,0,0,fourniture,true,vmc;ventilation;aldes
+Chauffage / Ventilation,VMC,Bouche VMC WC,Aldes,CV-ALD-009,piece,20,0,0,fourniture,true,vmc;ventilation;aldes
+Chauffage / Ventilation,Accessoires,Sangle fixation gaine,Aldes,CV-ALD-010,piece,20,0,0,fourniture,true,vmc;accessoire;gaine;aldes
+Chauffage / Ventilation,Accessoires,Collier gaine,Aldes,CV-ALD-011,piece,20,0,0,fourniture,true,vmc;accessoire;gaine;aldes
+Chauffage / Ventilation,Accessoires,Manchon gaine,Aldes,CV-ALD-012,piece,20,0,0,fourniture,true,vmc;accessoire;gaine;aldes
+Chauffage / Ventilation,Radiateurs,Radiateur 1000W,Atlantic,CV-ATL-001,piece,20,0,0,fourniture,true,chauffage;radiateur;atlantic
+Chauffage / Ventilation,Radiateurs,Radiateur 1500W,Atlantic,CV-ATL-002,piece,20,0,0,fourniture,true,chauffage;radiateur;atlantic
+Chauffage / Ventilation,Radiateurs,Radiateur 2000W,Atlantic,CV-ATL-003,piece,20,0,0,fourniture,true,chauffage;radiateur;atlantic
+Chauffage / Ventilation,Thermostats,Thermostat programmable,Atlantic,CV-ATL-004,piece,20,0,0,fourniture,true,chauffage;thermostat;atlantic
+Chauffage / Ventilation,Thermostats,Thermostat connecte,Atlantic,CV-ATL-005,piece,20,0,0,fourniture,true,chauffage;thermostat;atlantic
+Chauffage / Ventilation,Radiateurs,Seche-serviettes 750W,Atlantic,CV-ATL-006,piece,20,0,0,fourniture,true,chauffage;radiateur;atlantic
+Chauffage / Ventilation,Radiateurs,Seche-serviettes 1000W,Atlantic,CV-ATL-007,piece,20,0,0,fourniture,true,chauffage;radiateur;atlantic
+Chauffage / Ventilation,Radiateurs,Radiateur 1000W,Thermor,CV-THR-001,piece,20,0,0,fourniture,true,chauffage;radiateur;thermor
+Chauffage / Ventilation,Radiateurs,Radiateur 1500W,Thermor,CV-THR-002,piece,20,0,0,fourniture,true,chauffage;radiateur;thermor
+Chauffage / Ventilation,Radiateurs,Radiateur 2000W,Thermor,CV-THR-003,piece,20,0,0,fourniture,true,chauffage;radiateur;thermor
+Chauffage / Ventilation,Thermostats,Thermostat programmable,Thermor,CV-THR-004,piece,20,0,0,fourniture,true,chauffage;thermostat;thermor
+Chauffage / Ventilation,Thermostats,Thermostat connecte,Thermor,CV-THR-005,piece,20,0,0,fourniture,true,chauffage;thermostat;thermor
+Chauffage / Ventilation,Radiateurs,Seche-serviettes 750W,Thermor,CV-THR-006,piece,20,0,0,fourniture,true,chauffage;radiateur;thermor
+Chauffage / Ventilation,Radiateurs,Seche-serviettes 1000W,Thermor,CV-THR-007,piece,20,0,0,fourniture,true,chauffage;radiateur;thermor
+Securite,Incendie (DAAF),DAAF detecteur fumee autonome,Netatmo,SEC-NET-001,piece,20,0,0,fourniture,true,securite;daaf;netatmo
+Securite,Incendie (DAAF),Detecteur fumee connecte,Ajax,SEC-AJX-001,piece,20,0,0,fourniture,true,securite;daaf;ajax
+Securite,Intrusion,Centrale alarme,Ajax,SEC-AJX-002,piece,20,0,0,fourniture,true,securite;intrusion;alarme;ajax
+Securite,Intrusion,Detecteur mouvement,Ajax,SEC-AJX-003,piece,20,0,0,fourniture,true,securite;intrusion;ajax
+Securite,Intrusion,Detecteur ouverture,Ajax,SEC-AJX-004,piece,20,0,0,fourniture,true,securite;intrusion;ajax
+Securite,Intrusion,Sirene interieure,Ajax,SEC-AJX-005,piece,20,0,0,fourniture,true,securite;intrusion;ajax
+Securite,Intrusion,Sirene exterieure,Ajax,SEC-AJX-006,piece,20,0,0,fourniture,true,securite;intrusion;ajax
+Securite,Intrusion,Clavier alarme,Ajax,SEC-AJX-007,piece,20,0,0,fourniture,true,securite;intrusion;alarme;ajax
+Securite,Intrusion,Telecommande alarme,Ajax,SEC-AJX-008,piece,20,0,0,fourniture,true,securite;intrusion;alarme;ajax
+Securite,Intrusion,Bouton panique,Ajax,SEC-AJX-009,piece,20,0,0,fourniture,true,securite;intrusion;ajax
+Securite,Videosurveillance,Camera IP 2MP,Hikvision,SEC-HIK-001,piece,20,0,0,fourniture,true,securite;videosurveillance;camera;hikvision
+Securite,Videosurveillance,Camera IP 4MP,Hikvision,SEC-HIK-002,piece,20,0,0,fourniture,true,securite;videosurveillance;camera;hikvision
+Securite,Videosurveillance,Camera dome,Dahua,SEC-DAH-001,piece,20,0,0,fourniture,true,securite;videosurveillance;camera;dahua
+Securite,Videosurveillance,Camera exterieure,Dahua,SEC-DAH-002,piece,20,0,0,fourniture,true,securite;videosurveillance;camera;dahua
+Securite,Videosurveillance,NVR 4 voies,Hikvision,SEC-HIK-003,piece,20,0,0,fourniture,true,securite;videosurveillance;hikvision
+Securite,Videosurveillance,NVR 8 voies,Dahua,SEC-DAH-003,piece,20,0,0,fourniture,true,securite;videosurveillance;dahua
+Securite,Controle d acces,Lecteur badge,Hikvision,SEC-HIK-004,piece,20,0,0,fourniture,true,securite;controle-acces;hikvision
+Securite,Controle d acces,Clavier code,Hikvision,SEC-HIK-005,piece,20,0,0,fourniture,true,securite;controle-acces;hikvision
+Securite,Controle d acces,Gache electrique,Dahua,SEC-DAH-004,piece,20,0,0,fourniture,true,securite;controle-acces;dahua
+Securite,Controle d acces,Controle acces connecte,Dahua,SEC-DAH-005,piece,20,0,0,fourniture,true,securite;controle-acces;dahua
+Main d oeuvre,Diagnostic,Diagnostic panne electrique,HG ELEC,MO-HGE-001,heure,0,0,0,main_oeuvre,true,main-oeuvre;diagnostic;hgelec
+Main d oeuvre,Diagnostic,Diagnostic tableau,HG ELEC,MO-HGE-002,heure,0,0,0,main_oeuvre,true,main-oeuvre;diagnostic;tableau;hgelec
+Main d oeuvre,Diagnostic,Diagnostic reseau RJ45,HG ELEC,MO-HGE-003,heure,0,0,0,main_oeuvre,true,main-oeuvre;diagnostic;rj45;hgelec
+Main d oeuvre,Installation,Installation prise,HG ELEC,MO-HGE-004,piece,0,0,0,main_oeuvre,true,main-oeuvre;installation;prise;hgelec
+Main d oeuvre,Installation,Installation interrupteur,HG ELEC,MO-HGE-005,piece,0,0,0,main_oeuvre,true,main-oeuvre;installation;interrupteur;hgelec
+Main d oeuvre,Installation,Installation tableau,HG ELEC,MO-HGE-006,piece,0,0,0,main_oeuvre,true,main-oeuvre;installation;tableau;hgelec
+Main d oeuvre,Installation,Installation luminaire,HG ELEC,MO-HGE-007,piece,0,0,0,main_oeuvre,true,main-oeuvre;installation;hgelec
+Main d oeuvre,Installation,Installation VMC,HG ELEC,MO-HGE-008,piece,0,0,0,main_oeuvre,true,main-oeuvre;installation;vmc;hgelec
+Main d oeuvre,Installation,Tirage de cable,HG ELEC,MO-HGE-009,ml,0,0,0,main_oeuvre,true,main-oeuvre;installation;cable;hgelec
+Main d oeuvre,Installation,Pose goulotte,HG ELEC,MO-HGE-010,ml,0,0,0,main_oeuvre,true,main-oeuvre;installation;hgelec
+Main d oeuvre,Depannage,Depannage urgence,HG ELEC,MO-HGE-011,heure,0,0,0,main_oeuvre,true,main-oeuvre;depannage;hgelec
+Main d oeuvre,Depannage,Depannage prise,HG ELEC,MO-HGE-012,heure,0,0,0,main_oeuvre,true,main-oeuvre;depannage;prise;hgelec
+Main d oeuvre,Depannage,Depannage tableau,HG ELEC,MO-HGE-013,heure,0,0,0,main_oeuvre,true,main-oeuvre;depannage;tableau;hgelec
+Main d oeuvre,Depannage,Depannage eclairage,HG ELEC,MO-HGE-014,heure,0,0,0,main_oeuvre,true,main-oeuvre;depannage;hgelec
+Main d oeuvre,Renovation,Renovation partielle,HG ELEC,MO-HGE-015,forfait,0,0,0,main_oeuvre,true,main-oeuvre;renovation;hgelec
+Main d oeuvre,Renovation,Renovation complete,HG ELEC,MO-HGE-016,forfait,0,0,0,main_oeuvre,true,main-oeuvre;renovation;hgelec
+Main d oeuvre,Renovation,Renovation tableau,HG ELEC,MO-HGE-017,forfait,0,0,0,main_oeuvre,true,main-oeuvre;renovation;tableau;hgelec
+Main d oeuvre,Forfait,Forfait mise en service,HG ELEC,MO-HGE-018,forfait,0,0,0,main_oeuvre,true,main-oeuvre;forfait;hgelec
+Main d oeuvre,Forfait,Forfait raccordement,HG ELEC,MO-HGE-019,forfait,0,0,0,main_oeuvre,true,main-oeuvre;forfait;hgelec
+Main d oeuvre,Forfait,Forfait chantier demi-journee,HG ELEC,MO-HGE-020,forfait,0,0,0,main_oeuvre,true,main-oeuvre;forfait;hgelec
+Main d oeuvre,Forfait,Forfait chantier journee,HG ELEC,MO-HGE-021,forfait,0,0,0,main_oeuvre,true,main-oeuvre;forfait;hgelec
+Main d oeuvre,Deplacement,Deplacement 0-20km,HG ELEC,MO-HGE-022,forfait,0,0,0,deplacement,true,deplacement;forfait;hgelec
+Main d oeuvre,Deplacement,Deplacement 20-40km,HG ELEC,MO-HGE-023,forfait,0,0,0,deplacement,true,deplacement;forfait;hgelec
+Main d oeuvre,Deplacement,Deplacement 40-60km,HG ELEC,MO-HGE-024,forfait,0,0,0,deplacement,true,deplacement;forfait;hgelec
+Consommables / Fixations,Visserie,Vis placo 25mm,Spax,CON-SPX-001,boite,20,0,0,fourniture,true,visserie;spax
+Consommables / Fixations,Visserie,Vis bois 4x40,Spax,CON-SPX-002,boite,20,0,0,fourniture,true,visserie;spax
+Consommables / Fixations,Visserie,Vis metal 4.2x13,Spax,CON-SPX-003,boite,20,0,0,fourniture,true,visserie;spax
+Consommables / Fixations,Visserie,Vis auto-perceuse,Spax,CON-SPX-004,boite,20,0,0,fourniture,true,visserie;spax
+Consommables / Fixations,Visserie,Vis inox 4x30,Spax,CON-SPX-005,boite,20,0,0,fourniture,true,visserie;spax
+Consommables / Fixations,Chevilles,Cheville universelle 6mm,Fischer,CON-FIS-001,boite,20,0,0,fourniture,true,cheville;fischer
+Consommables / Fixations,Chevilles,Cheville universelle 8mm,Fischer,CON-FIS-002,boite,20,0,0,fourniture,true,cheville;fischer
+Consommables / Fixations,Chevilles,Cheville placo,Fischer,CON-FIS-003,boite,20,0,0,fourniture,true,cheville;fischer
+Consommables / Fixations,Chevilles,Cheville lourde,Fischer,CON-FIS-004,boite,20,0,0,fourniture,true,cheville;fischer
+Consommables / Fixations,Chevilles,Cheville chimique,Fischer,CON-FIS-005,boite,20,0,0,fourniture,true,cheville;fischer
+Consommables / Fixations,Gaines,Gaine thermo retractable,3M,CON-3M-001,rouleau,20,0,0,fourniture,true,gaine;3m
+Consommables / Fixations,Gaines,Ruban isolant,3M,CON-3M-002,rouleau,20,0,0,fourniture,true,gaine;3m
+Consommables / Fixations,Gaines,Mastic isolant,3M,CON-3M-003,rouleau,20,0,0,fourniture,true,gaine;3m
+Consommables / Fixations,Gaines,Ruban etancheite,3M,CON-3M-004,rouleau,20,0,0,fourniture,true,gaine;etanche;3m
+Consommables / Fixations,EPI,Gants de protection,Ansell,CON-ANS-001,paire,20,0,0,fourniture,true,epi;ansell
+Consommables / Fixations,EPI,Gants isolants,Ansell,CON-ANS-002,paire,20,0,0,fourniture,true,epi;ansell
+Consommables / Fixations,EPI,Lunettes de protection,Ansell,CON-ANS-003,paire,20,0,0,fourniture,true,epi;ansell
+Consommables / Fixations,EPI,Masque anti-poussiere,Ansell,CON-ANS-004,paire,20,0,0,fourniture,true,epi;ansell
+Consommables / Fixations,EPI,Bouchons oreilles,Ansell,CON-ANS-005,paire,20,0,0,fourniture,true,epi;ansell
+Consommables / Fixations,Isolants,Wago 221 lot 10,Wago,CON-WAG-001,boite,20,0,0,fourniture,true,isolant;wago
+Consommables / Fixations,Isolants,Wago 221 lot 50,Wago,CON-WAG-002,boite,20,0,0,fourniture,true,isolant;wago
+Consommables / Fixations,Isolants,Domino 5mm,Wago,CON-WAG-003,lot,20,0,0,fourniture,true,isolant;wago
+Consommables / Fixations,Isolants,Embouts de cable,Wago,CON-WAG-004,lot,20,0,0,fourniture,true,isolant;cable;wago
+Consommables / Fixations,Isolants,Colliers rilsan 200mm,Wago,CON-WAG-005,lot,20,0,0,fourniture,true,isolant;wago

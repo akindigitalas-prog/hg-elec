@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 220 33% 98%;
+  --foreground: 222 47% 11%;
+  --card: 0 0% 100%;
+  --card-foreground: 222 47% 11%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 222 47% 11%;
+  --primary: 221 83% 53%;
+  --primary-foreground: 210 40% 98%;
+  --secondary: 215 25% 90%;
+  --secondary-foreground: 222 47% 11%;
+  --muted: 214 20% 94%;
+  --muted-foreground: 215 16% 40%;
+  --accent: 172 52% 43%;
+  --accent-foreground: 210 40% 98%;
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 214 32% 91%;
+  --input: 214 32% 91%;
+  --ring: 221 83% 53%;
+  --radius: 1rem;
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+}
+
+.app-shell {
+  @apply min-h-screen bg-hero-grid;
+}
+
+.card-glow {
+  box-shadow: 0 18px 60px -30px rgba(15, 23, 42, 0.35);
+}
+
+.table-sticky thead th {
+  @apply sticky top-0 bg-background/90 backdrop-blur;
+}
+
